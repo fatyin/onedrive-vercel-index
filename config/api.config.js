@@ -13,7 +13,7 @@ module.exports = {
   // clientId: 'd87bcc39-1750-4ca0-ad54-f8d0efbb2735',
   // obfuscatedClientSecret: 'U2FsdGVkX1830zo3/pFDqaBCVBb37iLw3WnBDWGF9GIB2f4apzv0roemp8Y+iIxI3Ih5ecyukqELQEGzZlYiWg==',
   clientId: '40afa485-10e7-4b22-8afc-6032afa06b8d',
-  obfuscatedClientSecret: 'U2FsdGVkX183pe91pJ0H/QzYxRkhtkkfhGDGtku4uR6dRRcFAdnZUsMZRwe1WfEV/zxDLrdPieXlo3kUhUi37w==',
+  obfuscatedClientSecret: 'U2FsdGVkX180nrHPLpEBFBpXT7ycYM6GecHzUzS0k2JJnivPvoQa/EEjW6P7LT0oDkQB+dQoKLAATwLl44TAGw==',
 
   
   // The redirectUri is the URL that the user will be redirected to after they have authenticated with Microsoft Graph API.
